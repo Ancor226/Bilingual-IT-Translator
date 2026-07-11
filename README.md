@@ -1,6 +1,4 @@
-2. Bilingual IT Instruction Translator
-
-File: bilingual-it-translator.jsx
+Bilingual IT Instruction Translator
 
 A tool that translates English IT/support instructions into clear, professional Spanish, with an option to simplify technical jargon first, for non-technical staff.
 
